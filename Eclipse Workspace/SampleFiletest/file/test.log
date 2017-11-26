@@ -1,0 +1,4 @@
+2017-08-20 11:05:20.644 INFO  TestFile:14 - I am info 1
+2017-08-20 11:05:20.749 ERROR TestFile:15 - I am error 1
+2017-08-20 11:05:33.781 INFO  TestFile:14 - I am info 2
+2017-08-20 11:05:33.785 ERROR TestFile:15 - I am error 2

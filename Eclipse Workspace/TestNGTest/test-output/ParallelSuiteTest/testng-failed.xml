@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ParallelSuiteTest]" parallel="tests">
+  <test name="ChromeTest(failed)" parallel="tests">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="parellelExecutionTest.ParellelTest">
+        <methods>
+          <include name="setup"/>
+          <include name="bing"/>
+        </methods>
+      </class> <!-- parellelExecutionTest.ParellelTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [ParallelSuiteTest] -->

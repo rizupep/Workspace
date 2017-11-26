@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ErrorhaandlingTest(20_08_2017)&apos; to &apos;ErrorhandlingTest(20_08_2017)&apos;&#x0D;&#x0A;- Original element: &apos;ErrorhaandlingTest(20_08_2017)&apos;&#x0D;&#x0A;- Renamed element: &apos;ErrorhaandlingTest(20_08_2017)&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ErrorhaandlingTest(20_08_2017)&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ErrorhaandlingTest\(20_08_2017)" name="ErrorhandlingTest(20_08_2017)" references="true" stamp="1503208857175" version="1.0"/>
+</session>
